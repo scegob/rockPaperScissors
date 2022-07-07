@@ -1,7 +1,6 @@
 # rockPaperScissors
 
-I was practicing JavaScript by creating different porjects. Code along with codecademy to learn the fundamentals of js.
-This was my first JavaScript project where I used switch case. This is my favorite piece of code in the js file.
+I was practicing JavaScript by creating different porjects. This was my first JavaScript project where I used switch case. This is my favorite piece of code in the js file.
 
 // computer's choice
 
